@@ -1,2 +1,2 @@
 # meu-bot-discord
-oi
+oi como vai 
