@@ -42,5 +42,5 @@ Verifique se o Python está instalado corretamente no seu sistema. No terminal, 
 ```bash 
     pip install <nome da depedencia>
 ```
-- `python -m venv`: Usa o módulo `venv` para criar um
+- `python -m venv`: Usa o módulo `venv` para criar um ambiente virtual.
 - `myvenv`: Nome do ambiente virtual. Você pode escolher qualquer nome.
